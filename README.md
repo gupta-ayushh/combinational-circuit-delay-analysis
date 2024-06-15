@@ -1,1 +1,2 @@
 # combinational-circuit-delay-analysis
+This project analyzes delays in combinational digital circuits using C++. It calculates the delays of primary outputs and determines the required input delays to meet specific output timing requirements. The algorithm reads gate delays and circuit descriptions, computes maximum delays for signals, and processes each signal only once. Various test cases ensure the algorithm handles different gate types and circuit configurations accurately. The repository includes code, test cases, and detailed documentation.
